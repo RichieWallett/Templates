@@ -34,7 +34,18 @@
   "description": "This is a p5.js snippet that allows the window to redraw on wisndow resize"
 }
 
-// Raw
+// Embed in markdown
+```js
 function windowResized() {
   resizeCanvas(windowWidth, windowHeight);
 }
+```
+
+//Highlight.js
+<pre>
+  <code class="language-javascript">
+    function windowResized() {
+  resizeCanvas(windowWidth, windowHeight);
+}
+  </code>
+</pre>
