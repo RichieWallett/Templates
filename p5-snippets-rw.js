@@ -1,5 +1,8 @@
-// Tutorial t.ly/qqlI
+// Tutorial JSON t.ly/qqlI
+// https://snippet-generator.app
+// Allows IntelliSense integration 
 // When you are writing multi-line code, you cannot use a tab to indent your code in the JSON syntax. You can only use 2 spaces to indent
+
 /* Syntax
 // Code Snippet 2
   "Snippet name": {
@@ -45,7 +48,7 @@ function windowResized() {
 <pre>
   <code class="language-javascript">
     function windowResized() {
-  resizeCanvas(windowWidth, windowHeight);
-}
+    resizeCanvas(windowWidth, windowHeight);
+  }
   </code>
 </pre>
